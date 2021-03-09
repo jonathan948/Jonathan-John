@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: w;
+}
+
+body{
+    font-family: Be Vietnam;
+}
+/* NAVBAR SECTION */
+.banner{
+    position: relative;
+    height: 100vh;
+}
+
+.a {
+    color: wheat;
+    margin: 7px;
+}
+
+a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+li{
+    margin: 9px;
+}
+
+/* MAIN SECTION */
+.welcome{
+    position: absolute;
+    top: 260px;
+}
+
+.btn-{
+    background: hsl(12, 88%, 59%);
+    width: 140px;
+    border-radius: 10px;
+    border: solid  hsl(12, 88%, 59%);
+    color: white;
+    padding: 9px;
+}
+
+/* ABOUT MAIN SECTION */
+
+
+.ayo{
+    border-left: 3px solid hsl(12, 88%, 59%);
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+}
+
+.man{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: 80%;
+}
+
+.about{
+    color: hsl(12, 88%, 59%);
+}
+
+h4{
+    color: hsl(12, 88%, 59%);
+}
+
+/* PORTFOLIO MAIN SECTION */
+.btn-one{
+    background: hsl(12, 88%, 59%);
+    width: 100%;
+    border-radius: 6px;
+    border: solid  hsl(12, 88%, 59%);
+    color: white;
+    padding: 3px;
+    margin-top: 10px;
+}
+
+/* CONTACT MAIN SECTION */
+.form-control{
+    margin-top: 6px;
+}
+
+.form-control-one{
+    margin-top: 6px;
+    width: 100%;
+    border: solid 1px lightgray;
+    height: 50%;
+}
+
+.forms{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.get{
+    color: hsl(12, 88%, 59%);
+    margin-top: 20%;
+    margin-left: 10%;
+    font-size: 50px;
+}
